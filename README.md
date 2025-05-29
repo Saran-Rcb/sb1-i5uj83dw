@@ -9,7 +9,7 @@ Database: MongoDB using this URI:
 ruby
 Copy
 Edit
-mongodb+srv://sarandha95:szoVIUV134RIdsrv@cluster12.6af4xm6.mongodb.net/?retryWrites=true&w=majority&appName=Cluster12
+mongodb+srv
 Project Features:
 Vendor Dashboard
 Login/Signup
